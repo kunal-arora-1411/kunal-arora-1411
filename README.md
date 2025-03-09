@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, algorithms, and probl
 - **Libraries & Frameworks:** keras, TensorFlow, NumPy, Pandas.
 - **Areas of Interest:** Image Processing, Machine Learning, Predictive Analytics, Compiler Design, Deep Learning ,NLP.
 
-##🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - **[under-water-image-enhancement]** - A transformer based iamge enchancement system.
 - **[trafice-sign-realtime-detection-system]** - A DCNN based detection mechanism.
 
