@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kunal-arora-1411/kunal-arora-1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm passionate about coding, algorithms, and problem-solving. I enjoy working with C++, AI/ML, and image processing.
+
+## 🔧 Technologies & Skills ...
+- **Programming Languages:** C, C++, Python, Java
+- **Libraries & Frameworks:** keras, TensorFlow, NumPy, Pandas.
+- **Areas of Interest:** Image Processing, Machine Learning, Predictive Analytics, Compiler Design, Deep Learning ,NLP.
+
+##🔭 I’m currently working on ...
+- **[under-water-image-enhancement]** - A transformer based iamge enchancement system.
+- **[trafice-sign-realtime-detection-system]** - A DCNN based detection mechanism.
+
+## 📌 Featured Projects ...
+- 🔹 **[vehicle-detection-yolo](https://github.com/kunal-arora-1411/auto-detect-yolo)** – vehicle and pedestrian detection using yoloV3. 
+- 🔹 **[handwrititng-generation](https://github.com/your-username/dda_opengl)** – handwrititng generation using GAN.
+- 🔹 **[nutricare](https://github.com/kunal-arora-1411/nutricare)** –  personalized meal planning system usnig MySQL.
+
+## 📫 How to reach me: ...
+- **Email:** kuanlar2003@gmail.com
+- **LinkedIn:** [kunal arora](https://www.linkedin.com/in/kunal-arora-597a4827b/)
+- **GitHub:** [kunal-arora-1411](https://github.com/kunal-arora-1411)
+
+🚀 Always learning and building cool projects! Feel free to check out my work. 😃
