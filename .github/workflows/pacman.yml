@@ -1,0 +1,36 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: kunal-arora-1411
+
+      - name: Copy and prepare files
+        run: |
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
