@@ -60,7 +60,7 @@
 Welcome to my GitHub profile!  
 I'm an **AI Researcher and Full Stack Engineer** passionate about building production-scale AI systems, generative search intelligence, and computer vision pipelines.
 
-🌐 **[See my portfolio →](https://kunal-arora-1411.github.io/new-portfolio/)**
+🌐 **[See my portfolio →](https://kunalarora.tech)**
 
 ---
 
